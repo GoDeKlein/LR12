@@ -1,0 +1,29 @@
+body
+{
+    background: url(https://f.vividscreen.info/soft/483002fe5006cbe64e74ee47caaeeb9a/Barcelona-Football-Club-1920x1080.jpg);
+    background-repeat:no-repeat ;
+}
+.video
+{
+    height: 500px;
+    width: 500px;
+    
+    
+}
+.videoid
+{
+    height: 60%; 
+    width: 90%;  
+}
+.object
+{
+    float: left;
+    width: 600px;
+    width: 600px;
+    
+}
+cite
+{
+    color: cornsilk;
+    font-size: 20px;
+}
